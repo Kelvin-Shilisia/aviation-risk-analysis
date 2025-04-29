@@ -128,6 +128,9 @@ Maintain but don't overly prioritize these phases.
 
 Exporting processed data for data visualization on Tableau. 
 - Tableau dashboard for business presentation
+  An Interactive dashboard
+  <img width="636" alt="image" src="https://github.com/user-attachments/assets/86db9517-dc60-43c6-a642-51c9b3e0bd4f" />
+
 - (https://public.tableau.com/app/profile/kelvin.shilisia/viz/AircraftRiskAnalysis_17458565253400/Dashboard1?publish=yes)
 
 How to Use This Repo
