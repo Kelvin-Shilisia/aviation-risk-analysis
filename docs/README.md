@@ -1,3 +1,5 @@
+<pre><code>## 📁 Project Structure ``` aviation-risk-analysis/ │ ├── data/ │ ├── processed_aviation_data.csv │ ├── aircraft_accident_counts.csv │ ├── notebooks/ │ └── Phase1Project.ipynb │ ├── visuals/ │ └── dashboard_screenshot.png │ ├── README.md └── .gitignore ``` </code></pre>
+
 Aviation Risk Analysis
 
                         Project Overview
